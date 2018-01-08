@@ -1,4 +1,4 @@
-# resplots
+# res_plots
 # includes the plots to be uploaded for DS200 research methods assignment
 
 All the data has been taken from:- https://data.gov.in/
